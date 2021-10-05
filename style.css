@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
 }
 ::selection{
-  color: #ffff;
+  color: #F0FFF;
   background: rgb(142, 73, 232);
 }
 body{
@@ -17,7 +17,7 @@ body{
   background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
 }
 .wrapper{
-  background: #fff;
+  background: #FFE4C4;
   max-width: 400px;
   width: 100%;
   margin: 120px auto;
